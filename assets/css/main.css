@@ -2166,6 +2166,9 @@ input, select, textarea {
 	}
 
 /* Image */
+	.myPhoto {
+		border-radius:50%;	
+	}
 
 	.image {
 		border: 0;
