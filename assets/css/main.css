@@ -303,6 +303,9 @@ blockquote {
   color: #ffffff;
 }
 
+.deviconPadding {
+  padding: 15px;
+}
 /* Container */
 
 .container {
