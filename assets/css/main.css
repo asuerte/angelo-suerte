@@ -303,7 +303,7 @@ blockquote {
   color: #ffffff;
 }
 
-.deviconPadding {
+.devicon-padding {
   padding: 15px;
 }
 /* Container */
@@ -2269,8 +2269,9 @@ textarea {
 }
 
 /* Image */
-.myPhoto {
+.img-styles {
   border-radius: 100%;
+  height: 350px;
 }
 .image {
   border: 0;
